@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phase 3 CLI Project Template
 
 ## Learning Goals
@@ -236,3 +237,6 @@ Happy coding!
 - [Setting up a respository - Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 - [Create a repo- GitHub Docs](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+=======
+# coffeIronCLI
+>>>>>>> 3387c5155e055ad9f60849cf4ef85c2b12c18f05
